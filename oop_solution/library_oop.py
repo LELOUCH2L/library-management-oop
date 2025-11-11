@@ -1,4 +1,4 @@
-# Library Management System - Procedural Style
+# Library Management System - OOP Style
 
 
 class Book:

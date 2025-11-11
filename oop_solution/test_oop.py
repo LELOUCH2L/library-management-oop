@@ -1,4 +1,4 @@
-# Test Code for Procedural Library System
+# Test Code for OOP Library System
 
 from library_oop import *
 
